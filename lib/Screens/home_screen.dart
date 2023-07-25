@@ -45,7 +45,7 @@ class HomeScreen extends StatelessWidget {
                   '0',
                   style: TextStyle(
                     color: Colors.black,
-                    fontSize: 50.0,
+                    fontSize: 80.0,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
@@ -117,7 +117,7 @@ class HomeScreen extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
                 Text(
-                  'Team A',
+                  'Team B',
                   style: TextStyle(
                     color: Colors.black,
                     fontSize: 20.0,
@@ -131,7 +131,7 @@ class HomeScreen extends StatelessWidget {
                   '0',
                   style: TextStyle(
                     color: Colors.black,
-                    fontSize: 50.0,
+                    fontSize: 80.0,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
